@@ -17,7 +17,7 @@ You have a basic understanding of JavaScript, HTML, and CSS.
 Installation
 Clone the repository:
 
-git clone https://github.com/satendrasingh-1/Note.me.git
+git clone https://github.com/Harshksingh1/Note.me/tree/main/Note.me
 Navigate to the project directory:
 
 #For REACT
