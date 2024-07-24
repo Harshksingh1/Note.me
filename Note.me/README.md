@@ -50,6 +50,4 @@ Commit your changes (git commit -m 'Add feature').
 Push to the branch (git push origin feature-name).
 Create a Pull Request.
 
-Contact
-If you have any questions or suggestions, feel free to contact me at satendraprataps56@gmail.com.
 
